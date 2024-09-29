@@ -1,0 +1,13 @@
+// Bun Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generateComplexObject snapshot 1`] = `
+{
+  "age": 30,
+  "createdAt": Any<Date>,
+  "name": "John Doe",
+  "preferences": {
+    "notifications": true,
+    "theme": "dark",
+  },
+}
+`;
